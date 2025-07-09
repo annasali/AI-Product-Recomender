@@ -1,0 +1,10 @@
+flask
+flask-cors
+openai
+chromadb
+python-dotenv
+numpy
+pandas
+requests
+gunicorn
+uvicornpy
